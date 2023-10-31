@@ -1,5 +1,5 @@
 # Time-Series-Forecasting-with-XGBoost-Cross-Validation-
-Time Series Forecasting with XGBoost & Cross validation in order to predict the future
+ Another approach towards time Series Forecasting with XGBoost & Cross validation in order to predict the future. First approach https://github.com/Ethann93/Predictions-Energy-Consumption
 
 Time series forecasting plays a crucial role in various domains, from finance to energy consumption prediction. In this project, we'll explore time series forecasting using the XGBoost algorithm, a popular machine learning model, for predicting energy use.
 
